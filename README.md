@@ -4,7 +4,7 @@ A monitoring solution for Docker hosts and containers with [Prometheus](https://
 [NodeExporter](https://github.com/prometheus/node_exporter) and alerting with [AlertManager](https://github.com/prometheus/alertmanager).
 
 #### Fork from the original creator at:
-[stefanprodan/dockprom] (https://github.com/stefanprodan/dockprom) 
+[stefanprodan/dockprom](https://github.com/stefanprodan/dockprom) 
 
 
 
